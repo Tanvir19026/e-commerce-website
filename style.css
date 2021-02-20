@@ -1,0 +1,149 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+header a{
+  color:black;
+}
+.nav-var{
+  margin-left: 70px;
+}
+.nav-var :hover{
+  color:white;
+  font-weight: 700;
+}
+.dropdown:hover{
+  color:white;
+  font-weight: 700;
+}
+.dropdown{
+  margin-right: 30px;
+}
+#logo img{
+  
+  width: 100px;
+}
+aside{
+  background-image:linear-gradient(45deg,black,grey);
+}
+
+
+.form-design input{
+width:100%;
+height: 50px;
+border-radius: 5px;
+
+}
+.form-design button{
+  height:50px;
+  width: 50px;
+  background-color:grey;
+  border-radius: 5px;
+}
+.form-design button:hover{
+  background-color:blueviolet;
+
+}
+
+.logo-design i{
+  border: 1px solid mediumblue;
+  border-radius:50px;
+  padding: 10px;
+  margin: 10px;
+  background-color:cyan;
+  
+}
+.logo-design i:hover{
+  background-color:yellow;
+}
+.sign-register-design a{
+  margin-left:240px;
+ color:chartreuse;
+ 
+ font-weight:450;
+ 
+}
+
+
+.sign-register-design h3{
+  margin-left:110px;
+ 
+}
+
+
+#category{
+  
+  width:100%;
+  height: 200px;
+}
+.category-design a{
+  color:black;
+}
+#Category{
+  height: 60px;
+  border:1px solid black ;
+}
+
+#company{
+  width:100%;
+  height: 135px;
+  border: 1px solid black;
+  
+  border-radius:10px;
+}
+
+#banner img{
+  width: 99%;
+}
+.card-design{
+  box-shadow: 10px 10px 40px grey;
+}
+.card-design:hover{
+  box-shadow: 5px 5px 20px black;
+}
+
+.brand-design{
+  border:1px solid black;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.brand-design p{
+  text-align: center;
+}
+#app-info{
+  background-color:rgb(240, 234, 227);
+  height:200px;
+  margin-top:30px;
+  display: flex;
+  flex-direction: column;
+}
+#app-info h4{
+ padding:2%;
+}
+#brands{
+  background-color:rgb(204, 235, 235);
+  height: 320px;
+}
+#brands h1{
+  padding: 2%;
+}
+#app-info img{
+ margin-left: 38%;
+
+}
+.footer{
+  background-color: black;
+  height: 350px;
+  color:wheat;
+  
+
+}
+.footer li{
+  list-style: none;
+}
+.footer a{
+  text-decoration: none;
+  color:turquoise;
+  font-weight: 400;
+}
+
